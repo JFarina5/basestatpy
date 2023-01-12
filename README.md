@@ -1,1 +1,3 @@
 # basestatpy
+
+A baseball statistic script that will be able to take two teams and determine which has a better probablity of winning, based on various factors.
